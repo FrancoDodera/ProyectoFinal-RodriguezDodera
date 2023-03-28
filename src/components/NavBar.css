@@ -1,0 +1,31 @@
+.navbar {
+  padding: 2em;
+}
+.logo {
+  height: 3em;
+  width: 3em;
+}
+.nav-item {
+  padding: 1em;
+  margin-right: 0.5em;
+}
+#navbarNav {
+  display: flex;
+  justify-content: center;
+}
+#carrito {
+  display: flex;
+  border: none;
+  color: whitesmoke;
+  font-size: 40px;
+  background-color: rgb(105, 66, 16);
+  border-radius: 50%;
+  padding: 10px 20px;
+  transition: all 0.3s;
+  align-items: center;
+}
+.button-navbar {
+  border: none;
+  background-color: black;
+  color: whitesmoke;
+}
